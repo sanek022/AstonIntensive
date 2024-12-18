@@ -2,9 +2,6 @@ package HM1;
 
 public class Main {
     public static void main(String[] args) {
-       /* System.out.println("Hello World");
-        int[] arr = new int[] {1,5,6,9,8};
-        System.out.println(arr.length);*/
         ArrayList_AlexBalandin <Integer> list = new ArrayList_AlexBalandin<>();
         list.add(2); list.add(2); list.add(2); list.add(5); list.add(140); list.add(7);list.add(4); list.add(22); list.add(6);
         System.out.println(list);
